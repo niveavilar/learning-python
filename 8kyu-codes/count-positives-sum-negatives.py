@@ -1,5 +1,5 @@
 def count_positives_sum_negatives(arr):
-    if not arr:  # Verifica se a lista está vazia
+    if not arr:  
         return []
 
     pos_numbers = 0
